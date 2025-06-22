@@ -181,5 +181,4 @@ if __name__ == "__main__":
     
     benchmark_df = parse_benchmark_data()
     create_visualizations(benchmark_df)
-    # generate_latex_tables(benchmark_df) # This line was missing, re-added it.
     print("\nScript finished.")
