@@ -1,0 +1,47 @@
+Table A Size:100
+Table B Size:100
+Execution Time (HashJoin-Then-Aggregation): 5.4445e-05 s
+Execution Time (GroupJoin): 5.5727e-05 s
+Speed Up: 0.976995
+
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 0.000490226 s
+Execution Time (GroupJoin): 0.000583867 s
+Speed Up: 0.839619
+
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.00814264 s
+Execution Time (GroupJoin): 0.00700269 s
+Speed Up: 1.16279
+
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.0720735 s
+Execution Time (GroupJoin): 0.0904083 s
+Speed Up: 0.7972
+
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 1.53757 s
+Execution Time (GroupJoin): 1.72377 s
+Speed Up: 0.891982
+
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 16.3586 s
+Execution Time (GroupJoin): 20.2404 s
+Speed Up: 0.808213
+
+Table A Size:100000000
+Table B Size:100000000
+Execution Time (HashJoin-Then-Aggregation): 222.277 s
+Execution Time (GroupJoin): 253.744 s
+Speed Up: 0.87599
+
+Table A Size:200000000
+Table B Size:200000000
+Execution Time (HashJoin-Then-Aggregation): 560.477 s
+Execution Time (GroupJoin): 533.752 s
+Speed Up: 1.05007

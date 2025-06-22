@@ -1,0 +1,452 @@
+Benchmark log started on Sat 21 Jun 2025 02:25:01 PM IST
+------------------------------------------------------------
+TableA size: 1000
+TableB size: 1000
+Uniqueness: 0.1
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 5.5977e-05 s
+Execution Time (GroupJoin): 2.7603e-05 s
+Speed Up: 2.02793
+------------------------------------------------------------
+TableA size: 1000
+TableB size: 1000
+Uniqueness: 0.2
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 6.8241e-05 s
+Execution Time (GroupJoin): 3.8915e-05 s
+Speed Up: 1.75359
+------------------------------------------------------------
+TableA size: 1000
+TableB size: 1000
+Uniqueness: 0.3
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 9.8139e-05 s
+Execution Time (GroupJoin): 5.3653e-05 s
+Speed Up: 1.82914
+------------------------------------------------------------
+TableA size: 1000
+TableB size: 1000
+Uniqueness: 0.4
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 0.000137695 s
+Execution Time (GroupJoin): 7.283e-05 s
+Speed Up: 1.89064
+------------------------------------------------------------
+TableA size: 1000
+TableB size: 1000
+Uniqueness: 0.5
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 0.000164466 s
+Execution Time (GroupJoin): 9.2838e-05 s
+Speed Up: 1.77154
+------------------------------------------------------------
+TableA size: 1000
+TableB size: 1000
+Uniqueness: 0.6
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 0.000127885 s
+Execution Time (GroupJoin): 9.4541e-05 s
+Speed Up: 1.35269
+------------------------------------------------------------
+TableA size: 1000
+TableB size: 1000
+Uniqueness: 0.7
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 0.000141071 s
+Execution Time (GroupJoin): 0.000159316 s
+Speed Up: 0.885479
+------------------------------------------------------------
+TableA size: 1000
+TableB size: 1000
+Uniqueness: 0.8
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 0.00015595 s
+Execution Time (GroupJoin): 9.8249e-05 s
+Speed Up: 1.58729
+------------------------------------------------------------
+TableA size: 1000
+TableB size: 1000
+Uniqueness: 0.9
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 0.000228549 s
+Execution Time (GroupJoin): 0.000151451 s
+Speed Up: 1.50906
+------------------------------------------------------------
+TableA size: 1000
+TableB size: 1000
+Uniqueness: 1.0
+Table A Size:1000
+Table B Size:1000
+Execution Time (HashJoin-Then-Aggregation): 0.000250661 s
+Execution Time (GroupJoin): 0.000168613 s
+Speed Up: 1.48661
+------------------------------------------------------------
+TableA size: 10000
+TableB size: 10000
+Uniqueness: 0.1
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.000681989 s
+Execution Time (GroupJoin): 0.000294676 s
+Speed Up: 2.31437
+------------------------------------------------------------
+TableA size: 10000
+TableB size: 10000
+Uniqueness: 0.2
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.000903895 s
+Execution Time (GroupJoin): 0.000371012 s
+Speed Up: 2.4363
+------------------------------------------------------------
+TableA size: 10000
+TableB size: 10000
+Uniqueness: 0.3
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.00152762 s
+Execution Time (GroupJoin): 0.000694754 s
+Speed Up: 2.1988
+------------------------------------------------------------
+TableA size: 10000
+TableB size: 10000
+Uniqueness: 0.4
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.00126009 s
+Execution Time (GroupJoin): 0.000666409 s
+Speed Up: 1.89086
+------------------------------------------------------------
+TableA size: 10000
+TableB size: 10000
+Uniqueness: 0.5
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.00157099 s
+Execution Time (GroupJoin): 0.000722206 s
+Speed Up: 2.17526
+------------------------------------------------------------
+TableA size: 10000
+TableB size: 10000
+Uniqueness: 0.6
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.00150224 s
+Execution Time (GroupJoin): 0.00100902 s
+Speed Up: 1.48882
+------------------------------------------------------------
+TableA size: 10000
+TableB size: 10000
+Uniqueness: 0.7
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.00158209 s
+Execution Time (GroupJoin): 0.00122376 s
+Speed Up: 1.29281
+------------------------------------------------------------
+TableA size: 10000
+TableB size: 10000
+Uniqueness: 0.8
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.00159472 s
+Execution Time (GroupJoin): 0.00114094 s
+Speed Up: 1.39773
+------------------------------------------------------------
+TableA size: 10000
+TableB size: 10000
+Uniqueness: 0.9
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.00172729 s
+Execution Time (GroupJoin): 0.00136134 s
+Speed Up: 1.26881
+------------------------------------------------------------
+TableA size: 10000
+TableB size: 10000
+Uniqueness: 1.0
+Table A Size:10000
+Table B Size:10000
+Execution Time (HashJoin-Then-Aggregation): 0.00173269 s
+Execution Time (GroupJoin): 0.00132733 s
+Speed Up: 1.30539
+------------------------------------------------------------
+TableA size: 100000
+TableB size: 100000
+Uniqueness: 0.1
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.00852991 s
+Execution Time (GroupJoin): 0.0034493 s
+Speed Up: 2.47294
+------------------------------------------------------------
+TableA size: 100000
+TableB size: 100000
+Uniqueness: 0.2
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.011501 s
+Execution Time (GroupJoin): 0.00507816 s
+Speed Up: 2.26481
+------------------------------------------------------------
+TableA size: 100000
+TableB size: 100000
+Uniqueness: 0.3
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.0128365 s
+Execution Time (GroupJoin): 0.00642147 s
+Speed Up: 1.999
+------------------------------------------------------------
+TableA size: 100000
+TableB size: 100000
+Uniqueness: 0.4
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.0155236 s
+Execution Time (GroupJoin): 0.00790551 s
+Speed Up: 1.96364
+------------------------------------------------------------
+TableA size: 100000
+TableB size: 100000
+Uniqueness: 0.5
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.0182099 s
+Execution Time (GroupJoin): 0.0103887 s
+Speed Up: 1.75286
+------------------------------------------------------------
+TableA size: 100000
+TableB size: 100000
+Uniqueness: 0.6
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.0194174 s
+Execution Time (GroupJoin): 0.0115013 s
+Speed Up: 1.68829
+------------------------------------------------------------
+TableA size: 100000
+TableB size: 100000
+Uniqueness: 0.7
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.0230727 s
+Execution Time (GroupJoin): 0.0131714 s
+Speed Up: 1.75172
+------------------------------------------------------------
+TableA size: 100000
+TableB size: 100000
+Uniqueness: 0.8
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.024262 s
+Execution Time (GroupJoin): 0.0150362 s
+Speed Up: 1.61357
+------------------------------------------------------------
+TableA size: 100000
+TableB size: 100000
+Uniqueness: 0.9
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.0339026 s
+Execution Time (GroupJoin): 0.0207762 s
+Speed Up: 1.6318
+------------------------------------------------------------
+TableA size: 100000
+TableB size: 100000
+Uniqueness: 1.0
+Table A Size:100000
+Table B Size:100000
+Execution Time (HashJoin-Then-Aggregation): 0.0285484 s
+Execution Time (GroupJoin): 0.019091 s
+Speed Up: 1.49538
+------------------------------------------------------------
+TableA size: 1000000
+TableB size: 1000000
+Uniqueness: 0.1
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 0.12176 s
+Execution Time (GroupJoin): 0.0404762 s
+Speed Up: 3.0082
+------------------------------------------------------------
+TableA size: 1000000
+TableB size: 1000000
+Uniqueness: 0.2
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 0.248309 s
+Execution Time (GroupJoin): 0.0868849 s
+Speed Up: 2.85791
+------------------------------------------------------------
+TableA size: 1000000
+TableB size: 1000000
+Uniqueness: 0.3
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 0.337099 s
+Execution Time (GroupJoin): 0.102172 s
+Speed Up: 3.29932
+------------------------------------------------------------
+TableA size: 1000000
+TableB size: 1000000
+Uniqueness: 0.4
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 0.396539 s
+Execution Time (GroupJoin): 0.160243 s
+Speed Up: 2.47461
+------------------------------------------------------------
+TableA size: 1000000
+TableB size: 1000000
+Uniqueness: 0.5
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 0.438755 s
+Execution Time (GroupJoin): 0.224163 s
+Speed Up: 1.9573
+------------------------------------------------------------
+TableA size: 1000000
+TableB size: 1000000
+Uniqueness: 0.6
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 0.476686 s
+Execution Time (GroupJoin): 0.253455 s
+Speed Up: 1.88075
+------------------------------------------------------------
+TableA size: 1000000
+TableB size: 1000000
+Uniqueness: 0.7
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 0.512898 s
+Execution Time (GroupJoin): 0.347626 s
+Speed Up: 1.47543
+------------------------------------------------------------
+TableA size: 1000000
+TableB size: 1000000
+Uniqueness: 0.8
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 0.735114 s
+Execution Time (GroupJoin): 0.553384 s
+Speed Up: 1.3284
+------------------------------------------------------------
+TableA size: 1000000
+TableB size: 1000000
+Uniqueness: 0.9
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 0.644652 s
+Execution Time (GroupJoin): 0.499947 s
+Speed Up: 1.28944
+------------------------------------------------------------
+TableA size: 1000000
+TableB size: 1000000
+Uniqueness: 1.0
+Table A Size:1000000
+Table B Size:1000000
+Execution Time (HashJoin-Then-Aggregation): 0.604648 s
+Execution Time (GroupJoin): 0.50245 s
+Speed Up: 1.2034
+------------------------------------------------------------
+TableA size: 10000000
+TableB size: 10000000
+Uniqueness: 0.1
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 3.19397 s
+Execution Time (GroupJoin): 1.61151 s
+Speed Up: 1.98197
+------------------------------------------------------------
+TableA size: 10000000
+TableB size: 10000000
+Uniqueness: 0.2
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 4.55462 s
+Execution Time (GroupJoin): 2.44691 s
+Speed Up: 1.86138
+------------------------------------------------------------
+TableA size: 10000000
+TableB size: 10000000
+Uniqueness: 0.3
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 5.90756 s
+Execution Time (GroupJoin): 3.66215 s
+Speed Up: 1.61314
+------------------------------------------------------------
+TableA size: 10000000
+TableB size: 10000000
+Uniqueness: 0.4
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 6.58005 s
+Execution Time (GroupJoin): 4.41292 s
+Speed Up: 1.49109
+------------------------------------------------------------
+TableA size: 10000000
+TableB size: 10000000
+Uniqueness: 0.5
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 7.48089 s
+Execution Time (GroupJoin): 5.1879 s
+Speed Up: 1.44199
+------------------------------------------------------------
+TableA size: 10000000
+TableB size: 10000000
+Uniqueness: 0.6
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 8.53309 s
+Execution Time (GroupJoin): 7.60848 s
+Speed Up: 1.12152
+------------------------------------------------------------
+TableA size: 10000000
+TableB size: 10000000
+Uniqueness: 0.7
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 8.37685 s
+Execution Time (GroupJoin): 7.87339 s
+Speed Up: 1.06395
+------------------------------------------------------------
+TableA size: 10000000
+TableB size: 10000000
+Uniqueness: 0.8
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 8.50613 s
+Execution Time (GroupJoin): 8.61382 s
+Speed Up: 0.987497
+------------------------------------------------------------
+TableA size: 10000000
+TableB size: 10000000
+Uniqueness: 0.9
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 8.92083 s
+Execution Time (GroupJoin): 8.63217 s
+Speed Up: 1.03344
+------------------------------------------------------------
+TableA size: 10000000
+TableB size: 10000000
+Uniqueness: 1.0
+Table A Size:10000000
+Table B Size:10000000
+Execution Time (HashJoin-Then-Aggregation): 9.12377 s
+Execution Time (GroupJoin): 8.97486 s
+Speed Up: 1.01659
+------------------------------------------------------------
